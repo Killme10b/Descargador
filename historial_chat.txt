@@ -1,0 +1,14 @@
+Usuario: hola  
+Usuario: cd  ..
+Usuario: salir  
+Usuario: que tal
+Usuario: hola
+Usuario: que tal 
+Usuario: hola 
+Usuario: hola
+Usuario: que tal 
+Usuario: que tal 
+Usuario: [a[a[a[d[b[b[b
+Usuario: que tal!
+Usuario: como estas
+Usuario: linux
